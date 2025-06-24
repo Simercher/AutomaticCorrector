@@ -5,5 +5,12 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "datasets>=3.6.0",
+    "jieba>=0.42.1",
+    "kenlm>=0.3.0",
+    "opencc-python-reimplemented>=0.1.7",
+    "pycorrector>=1.1.2",
     "pynput>=1.8.1",
+    "symspellpy>=6.9.0",
+    "torch>=2.7.1",
 ]

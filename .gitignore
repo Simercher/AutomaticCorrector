@@ -4,7 +4,15 @@ __pycache__/
 build/
 dist/
 wheels/
+DataProcessor/wikiextractor/
+kenlm/
 *.egg-info
+*.txt
+*.big
+*.bz2
+*.arpa
+*.binary
+*.pkl
 
 # Virtual environments
 .venv
